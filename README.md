@@ -1,7 +1,7 @@
 # Unity_DepthEffect_Orthographic
 Very simple depth effect working on orthographic camera.
 
-
+![](DepthBuffer.gif)
 
 Inspired by : <br/>
 https://forum.unity.com/threads/depth-buffer-with-orthographic-camera.355878/
